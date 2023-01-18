@@ -10,6 +10,7 @@ public class Calc {
     public static void main(String[] args){
        System.out.println("Passou pelo método Main");
        somarDoisNumeros();
+       //oi
 
     }
     public static void somarDoisNumeros(){
